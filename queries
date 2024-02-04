@@ -1,0 +1,14 @@
+Player with the most touchdown passes:
+db.packers_team.find().sort({ touchdownsThrown: -1 }).limit(1);
+
+Player with the most rushing yards:
+db.packers_team.find().sort({ rushingYards: -1 }).limit(1);
+
+Player with the least rushing yards:
+db.packers_team.find().sort({ rushingYards: 1 }).limit(1);
+
+List of players sorted from most to fewest field goals made:
+db.packers_team.find().sort({ fieldGoalsMade: -1 });
+
+Player with the most number of sacks:
+db.packers_team.find().sort({ sacks: -1 }).limit(1);

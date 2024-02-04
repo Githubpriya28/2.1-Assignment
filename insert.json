@@ -1,0 +1,152 @@
+db.football_team.insertMany([
+  {
+    "player_name": "Tom Brady",
+    "position": "Quarterback",
+    "rushing_yards": 50,
+    "touchdowns_thrown": 40,
+    "sacks": 10,
+    "field_goals_made": 25,
+    "field_goals_missed": 5,
+    "catches": 0
+  },
+  {
+    "player_name": "Aaron Jones",
+    "position": "Running Back",
+    "rushing_yards": 1000,
+    "touchdowns_thrown": 0,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 30
+  },
+  {
+    "player_name": "Patrick Mahomes",
+    "position": "Quarterback",
+    "rushing_yards": 200,
+    "touchdowns_thrown": 45,
+    "sacks": 15,
+    "field_goals_made": 20,
+    "field_goals_missed": 3,
+    "catches": 2
+  },
+  {
+    "player_name": "Derrick Henry",
+    "position": "Running Back",
+    "rushing_yards": 1500,
+    "touchdowns_thrown": 0,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 15
+  },
+  {
+    "player_name": "DeAndre Hopkins",
+    "position": "Wide Receiver",
+    "rushing_yards": 20,
+    "touchdowns_thrown": 0,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 100
+  },
+  {
+    "player_name": "Khalil Mack",
+    "position": "Defensive End",
+    "rushing_yards": 5,
+    "touchdowns_thrown": 0,
+    "sacks": 20,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 0
+  },
+  {
+    "player_name": "Julio Jones",
+    "position": "Wide Receiver",
+    "rushing_yards": 30,
+    "touchdowns_thrown": 0,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 80
+  },
+  {
+    "player_name": "J.J. Watt",
+    "position": "Defensive End",
+    "rushing_yards": 10,
+    "touchdowns_thrown": 0,
+    "sacks": 15,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 0
+  },
+  {
+    "player_name": "Christian McCaffrey",
+    "position": "Running Back",
+    "rushing_yards": 800,
+    "touchdowns_thrown": 1,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 50
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "position": "Wide Receiver",
+    "rushing_yards": 15,
+    "touchdowns_thrown": 0,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 90
+  },
+  {
+    "player_name": "Lamar Jackson",
+    "position": "Quarterback",
+    "rushing_yards": 1000,
+    "touchdowns_thrown": 35,
+    "sacks": 12,
+    "field_goals_made": 15,
+    "field_goals_missed": 4,
+    "catches": 5
+  },
+  {
+    "player_name": "Ezekiel Elliott",
+    "position": "Running Back",
+    "rushing_yards": 1200,
+    "touchdowns_thrown": 0,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 40
+  },
+  {
+    "player_name": "Dak Prescott",
+    "position": "Quarterback",
+    "rushing_yards": 200,
+    "touchdowns_thrown": 30,
+    "sacks": 10,
+    "field_goals_made": 18,
+    "field_goals_missed": 3,
+    "catches": 1
+  },
+  {
+    "player_name": "Chris Jones",
+    "position": "Defensive Tackle",
+    "rushing_yards": 0,
+    "touchdowns_thrown": 0,
+    "sacks": 8,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 0
+  },
+  {
+    "player_name": "Michael Thomas",
+    "position": "Wide Receiver",
+    "rushing_yards": 10,
+    "touchdowns_thrown": 0,
+    "sacks": 0,
+    "field_goals_made": 0,
+    "field_goals_missed": 0,
+    "catches": 95
+  }
+]);
